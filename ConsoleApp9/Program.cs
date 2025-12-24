@@ -59,7 +59,7 @@ namespace BASICPRO1
 
 
             string x;
-            CAR[] cars = new CAR[1];
+            CAR[] cars = new CAR[20];
             int count = 0;
 
             Console.Clear();
